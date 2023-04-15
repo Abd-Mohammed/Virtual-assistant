@@ -1,0 +1,16 @@
+com.example.noua_virtual.app-jetified-window-java-1.0.0-beta04-0 /home/abd/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.noua_virtual.app-core-1.8.0-1 /home/abd/.gradle/caches/transforms-3/270e9501dde0430a83746f97bf9ab544/transformed/core-1.8.0/res
+com.example.noua_virtual.app-lifecycle-runtime-2.3.1-2 /home/abd/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/res
+com.example.noua_virtual.app-jetified-annotation-experimental-1.1.0-3 /home/abd/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.noua_virtual.app-jetified-core-ktx-1.8.0-4 /home/abd/.gradle/caches/transforms-3/b431c95aeca551584d4466c6f05603c2/transformed/jetified-core-ktx-1.8.0/res
+com.example.noua_virtual.app-jetified-window-1.0.0-beta04-5 /home/abd/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.noua_virtual.app-debug-6 /home/abd/Desktop/myFiles/noua_virtual/android/app/src/debug/res
+com.example.noua_virtual.app-main-7 /home/abd/Desktop/myFiles/noua_virtual/android/app/src/main/res
+com.example.noua_virtual.app-pngs-8 /home/abd/Desktop/myFiles/noua_virtual/build/app/generated/res/pngs/debug
+com.example.noua_virtual.app-resValues-9 /home/abd/Desktop/myFiles/noua_virtual/build/app/generated/res/resValues/debug
+com.example.noua_virtual.app-rs-10 /home/abd/Desktop/myFiles/noua_virtual/build/app/generated/res/rs/debug
+com.example.noua_virtual.app-mergeDebugResources-11 /home/abd/Desktop/myFiles/noua_virtual/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.noua_virtual.app-mergeDebugResources-12 /home/abd/Desktop/myFiles/noua_virtual/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.noua_virtual.app-merged_res-13 /home/abd/Desktop/myFiles/noua_virtual/build/app/intermediates/merged_res/debug
+com.example.noua_virtual.app-packaged_res-14 /home/abd/Desktop/myFiles/noua_virtual/build/flutter_tts/intermediates/packaged_res/debug
+com.example.noua_virtual.app-packaged_res-15 /home/abd/Desktop/myFiles/noua_virtual/build/speech_to_text/intermediates/packaged_res/debug
